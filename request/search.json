@@ -1,0 +1,13 @@
+{
+  "CorpNum": "0000000001",
+  "SDate": "20220215",
+  "EDate": "20220216",
+  "State": "{\"state\": \"1\"}",
+  "Item": "{\"item\": \"SMS\"}",
+  "ReserveYN": "false",
+  "SenderYN": "false",
+  "Order": "A",
+  "Page": "1",
+  "PerPage": "10",
+  "QString": ""
+}
